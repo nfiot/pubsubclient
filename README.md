@@ -1,3 +1,16 @@
+> [!CAUTION]
+> This library is not maintained. It was my first 'popular' Open Source project, and brought MQTT
+> to the Arduino platform just as both were gaining popularity.
+> 
+> But times have changed, and I haven't needed to use it for a long time now. This means I simply
+> don't have the setup locally to properly develop, test and maintain the library.
+> Alternative libraries exist and I urge you to pick one that is actively maintained.
+> 
+> So Long and Thanks For All The PUBACKs
+> 
+> Nick
+> 2026
+
 # Arduino Client for MQTT
 
 This library provides a client for doing simple publish/subscribe messaging with
